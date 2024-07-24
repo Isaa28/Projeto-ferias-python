@@ -1,6 +1,6 @@
+op = input("Qual a operação que você deseja(*,-,+,/):")
 n1 = int(input("Digite um número para realizar uma operação:"))
 n2 = int(input("Digite o segundo número para a operação:"))
-op = input("Qual a operação que você deseja:")
 mult = "*"
 sam = "+"
 sub = "-"

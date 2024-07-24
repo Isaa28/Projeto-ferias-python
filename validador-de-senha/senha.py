@@ -3,4 +3,4 @@ print("Cadastre aqui sua senha com os seguintes critérios: \n"
       "         *Ao menos uma letra MAIÚSCULA\n"
       "         *Ao menos um número\n"
       "         *Ao menos um caractere especial(!@#$%¨&*)\n")
-senha = input("Digite sua senha : ")
+s = input("Digite sua senha : ")
